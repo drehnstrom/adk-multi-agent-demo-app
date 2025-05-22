@@ -13,10 +13,10 @@ The Weather Agent uses an OpenAI GPT model. The other two Agents use Google Gemi
 ## Follow the instructions below to get it working. 
 
 ### Create a Virtual Environment
-'''
+```
 python -m venv .venv
 source .venv/bin/activate
-'''
+```
 
 ### Install the requirements
 ```
