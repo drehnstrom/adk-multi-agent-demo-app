@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+
+# Logs and debug files
+*.log
+*.pot
+*.pyc
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+coverage.xml
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pydantic compiled models
+*.pydantic.*
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Python wheels
+*.whl
+
+# Local configuration files
+*.local
+*.env
+.env.*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Generated files
+requirements-full.txt
